@@ -108,7 +108,8 @@ venv.bak/
 *.txt
 *.srt
 
-
+#MAC
+.DS_Store
 
 
 
